@@ -1,4 +1,7 @@
 # gakkel-fleet-dashboard
+
+> **Archivé.** Ce projet est remplacé par [mission-console](https://github.com/gakkel-labs/mission-console), le poste opérateur web de Gakkel (préparation et suivi de mission).
+
 Interface de monitoring et visualisation temps réel pour le système **Gakkel** de détection de formes par ROV.
 
 ## 🎯 Objectif
